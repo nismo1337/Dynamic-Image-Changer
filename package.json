@@ -1,0 +1,15 @@
+{
+    "name": "meow",
+    "version": "1.0.0",
+    "description": "A Node.js application for serving random images",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Meow",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1" 
+    }
+  }
+  
